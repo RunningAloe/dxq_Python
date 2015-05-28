@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#backup_ver1.py
+#backup_ver2.py
 import os
 import time
 source=['/home/dong/dxq_Python','/home/dong/Codehub_dxq']
